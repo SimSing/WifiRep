@@ -1,0 +1,2 @@
+module za_myremotehelloworld {
+}
